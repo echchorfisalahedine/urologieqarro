@@ -1,0 +1,158 @@
+<Table borderless>
+                <thead>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td  colSpan="5"><p className=" m-0 p-0">Doctorat en médecine, Faculté de Médecine et de Pharmacie de Rabat, Maroc.</p></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" style={{ transform: 'rotate(270deg)' }} /> </td>
+                        <td colSpan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" /> </td>
+                        <td colSpan="2"> <p className="diplome m-0 p-0">Diplôme de spécialité en Chirurgie Urologique de la Faculté de Médecine et de Pharmacie de Rabat, Maroc.</p> </td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"> <p className="diplome m-0 p-0">Concours de Internat du Centre Hospitalier Universitaire Ibn Sina de Rabat, Octobre 1997.</p> </td>
+                        <td> <img src={cetificate} width="32px" height="32px" style={{ transform: 'rotate(180deg)' }} /> </td>
+                        <td colSpan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" /> </td>
+                        <td colSpan="2"> <p className="diplome m-0 p-0">Attestation Universitaire de Coeliochirurgie de la Faculté de Médecine et de Pharmacie de Rabat, Maroc.</p> </td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d Onco Urologie de la Faculté de Médecine et de Pharmacie de Rabat Maroc.</p></td>
+                        <td> <img src={cetificate} width="32px" height="32px" style={{ transform: 'rotate(180deg)' }} /> </td>
+                        <td colSpan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" /> </td>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d Université de Dissection et Anatomie coelioscopique de l Université de Montpellier 1, France.</p></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d' Université de Chirurgie Laparoscopique avancée de l Université Paris XI, France.</p></td>
+                        <td> <img src={cetificate} width="32px" height="32px" style={{ transform: 'rotate(180deg)' }} /> </td>
+                        <td colSpan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" /> </td>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d'Université d' Urodynamique, Université Paris 7, Denis Diderot, Faculté de Médecine Xavier Bichat, Paris, France.</p></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Attestation de Formation Spécialisée de l Université de Bourgogne, France.</p></td>
+                        <td> <img src={cetificate} width="32px" height="32px" style={{ transform: 'rotate(180deg)' }} /> </td>
+                        <td colSpan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" /> </td>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d Université de Dissection et Anatomie coelioscopique de l Université de Montpellier 1, France.</p></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d'Échographie, Faculté de Médecine et de Pharmacie de Rabat, Marocc.</p></td>
+                        <td> <img src={cetificate} width="32px" height="32px" style={{ transform: 'rotate(180deg)' }} /> </td>
+                        <td colSpan="2"></td>
+                    </tr>
+                    <tr>
+                        <td colSpan="2"></td>
+                        <td> <img src={cetificate} width="32px" height="32px" /> </td>
+                        <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d'Université de Chirurgie Laparoscopique - IRCAD - Université de Strasbourg, France.</p></td>
+                    </tr>
+                </tbody>
+            </Table>
+            <Row>
+                <>
+                    <style type="text/css">
+                        {`
+                        .diplome {
+                            font-size : 13px;
+                            align-text : left;
+                        }
+                        .lastdip {
+                            font-size : 13px;
+                            padding-top : 0px;
+                            padding-bottom : 15px;
+                            margin : 0;
+                        }
+                    
+                    `}
+                    </style>
+                </>
+                <Col xs={5} sm={5} md={5} lg={5} className="pt-5 px-0">
+                    <Table >
+                        <thead>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colSpan="2"> <p className="diplome m-0 py-3">Concours de Internat du Centre Hospitalier Universitaire Ibn Sina de Rabat, Octobre 1997.</p> </td>
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 py-3">Diplôme d Onco Urologie de la Faculté de Médecine et de Pharmacie de Rabat Maroc.</p></td>
+
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 py-3">Diplôme d' Université de Chirurgie Laparoscopique avancée de l Université Paris XI, France.</p></td>
+
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 py-3">Attestation de Formation Spécialisée de l Université de Bourgogne, France.</p></td>
+
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 py-3">Diplôme d'Université de Chirurgie Laparoscopique - IRCAD - Université de Strasbourg, France.</p></td>
+                            </tr>
+                        </tbody>
+                    </Table>
+                </Col>
+                <Col xs={2} sm={2} md={2} lg={2}>
+                    <Container fluid className="h-100">
+                        <img src={pdoc2} className="h-100" />
+                    </Container>
+                </Col>
+                <Col xs={5} sm={5} md={5} lg={5} className="pt-3 px-0">
+                    <Table borderless>
+                        <thead>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td colSpan="2"> <p className="diplome m-0 p-0">Diplôme de spécialité en Chirurgie Urologique de la Faculté de Médecine et de Pharmacie de Rabat, Maroc.</p> </td>
+                            </tr>
+                            <tr>
+                                <td colSpan="2"> <p className="diplome m-0 p-0">Attestation Universitaire de Coeliochirurgie de la Faculté de Médecine et de Pharmacie de Rabat, Maroc.</p> </td>
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d Université de Dissection et Anatomie coelioscopique de l Université de Montpellier 1, France.</p></td>
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d'Université d' Urodynamique, Université Paris 7, Denis Diderot, Faculté de Médecine Xavier Bichat, Paris, France.</p></td>
+                            </tr>
+                            <tr>
+                                <td colSpan="2"><p className="diplome m-0 p-0">Diplôme d'Échographie, Faculté de Médecine et de Pharmacie de Rabat, Marocc.</p></td>
+                            </tr>
+                        </tbody>
+                    </Table>
+
+                </Col>
+            </Row>
+
+
+
+            N° 24 Etage 3 Résidence Almorjane, Angle Avenue Mohammed V et rue Moulay Abdellah - Kenitra
+            رقم 24 الطابق 3 إقامة المرجان تقاطع شارع محمد الخامس و زقة مولاي عبد الله - القنيطرة
+
+
+            <span className="nameFr" >Dr. QARRO Abdelmounaim</span><Container className="d-inline px-lg-3 px-md-2 px-sm-1 px-xs-1"><img width="60px" src={clogo} alt="cabinet logo" /></Container><span className="nameAr" >د. قرو عبد المنعم</span>
