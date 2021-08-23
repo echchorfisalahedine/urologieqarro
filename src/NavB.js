@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar, Container, Row, Col, Image } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import clogo from './assets/logo_Cabinet_Urologie2.png'
+import clogo from './assets/logo_Cabinet_Urologie.png'
 class NavB extends React.Component {
     render() {
         return <Navbar bg="dark" variant="dark" expand={'sm' | 'md' | 'lg' | 'xl' | 'xxl'}>
