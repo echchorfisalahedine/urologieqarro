@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/urologieqarro/static/css/main.fe8e9e09.chunk.css",
-    "main.js": "/urologieqarro/static/js/main.92ccf7cb.chunk.js",
-    "main.js.map": "/urologieqarro/static/js/main.92ccf7cb.chunk.js.map",
+    "main.js": "/urologieqarro/static/js/main.69b226ee.chunk.js",
+    "main.js.map": "/urologieqarro/static/js/main.69b226ee.chunk.js.map",
     "runtime-main.js": "/urologieqarro/static/js/runtime-main.df62f01f.js",
     "runtime-main.js.map": "/urologieqarro/static/js/runtime-main.df62f01f.js.map",
     "static/css/2.4be38407.chunk.css": "/urologieqarro/static/css/2.4be38407.chunk.css",
@@ -23,7 +23,7 @@
     "static/media/fifth.ff10c634.jpeg": "/urologieqarro/static/media/fifth.ff10c634.jpeg",
     "static/media/first.24c7beb7.jpeg": "/urologieqarro/static/media/first.24c7beb7.jpeg",
     "static/media/fourth.ed1776c7.jpeg": "/urologieqarro/static/media/fourth.ed1776c7.jpeg",
-    "static/media/logo_Cabinet_Urologie2.1ac2abea.png": "/urologieqarro/static/media/logo_Cabinet_Urologie2.1ac2abea.png",
+    "static/media/logo_Cabinet_Urologie.e733ac4c.png": "/urologieqarro/static/media/logo_Cabinet_Urologie.e733ac4c.png",
     "static/media/ninth.99cf198b.jpeg": "/urologieqarro/static/media/ninth.99cf198b.jpeg",
     "static/media/parcoursdoc.034c5bef.png": "/urologieqarro/static/media/parcoursdoc.034c5bef.png",
     "static/media/parcoursdoc1.063df5de.png": "/urologieqarro/static/media/parcoursdoc1.063df5de.png",
@@ -41,6 +41,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.3ecb32fa.chunk.js",
     "static/css/main.fe8e9e09.chunk.css",
-    "static/js/main.92ccf7cb.chunk.js"
+    "static/js/main.69b226ee.chunk.js"
   ]
 }
